@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/auth/index.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  }
+}
